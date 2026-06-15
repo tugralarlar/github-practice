@@ -9,3 +9,5 @@ Three GitHub skills I practiced are:
 - Creating a repository,
 - Creating branches,
 - Creating pull requests
+
+Edited in: 15.06.2026
